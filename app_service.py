@@ -49,3 +49,5 @@ class AppService:
         return json.dumps({'message': 'task id not found'});
 
     
+    def configure_app(app):
+        app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql://user:@domain.com" # Noncompliant
