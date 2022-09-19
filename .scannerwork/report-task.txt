@@ -1,6 +1,6 @@
-projectKey=python-rule
-serverUrl=http://localhost:9000
-serverVersion=9.6.0.59041
-dashboardUrl=http://localhost:9000/dashboard?id=python-rule
-ceTaskId=AYLPRyXhWN7MrARxoMzC
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYLPRyXhWN7MrARxoMzC
+projectKey=sonar-crawler
+serverUrl=https://sonarqube.biplus.com.vn
+serverVersion=9.5.0.56709
+dashboardUrl=https://sonarqube.biplus.com.vn/dashboard?id=sonar-crawler
+ceTaskId=AYM5twGGban1-MlPLDn_
+ceTaskUrl=https://sonarqube.biplus.com.vn/api/ce/task?id=AYM5twGGban1-MlPLDn_
